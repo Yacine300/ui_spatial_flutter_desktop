@@ -72,7 +72,7 @@ A few resources to help you get started with Flutter development:
 3. ![Screenshot 3](https://github.com/Yacine300/ui_spatial_flutter_desktop/blob/main/3.png)
 4. ![Screenshot 4](https://github.com/Yacine300/ui_spatial_flutter_desktop/blob/main/4.png)
 5. ![Screenshot 5](https://github.com/Yacine300/ui_spatial_flutter_desktop/blob/main/5.png)
-6. ![Screenshot 6](https://github.com/Yacine300/ui_spatial_flutter_desktop/blob/main/6.png)
+
 
 For comprehensive Flutter development documentation, visit the [Flutter website](https://docs.flutter.dev/), where you'll find tutorials, samples, and API references.
 
